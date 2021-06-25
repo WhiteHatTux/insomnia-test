@@ -1,0 +1,21 @@
+_id: req_9455c055d0584a839a6afa3a5e568334
+type: Request
+parentId: wrk_88914502aba540a99c817fe9580f2ffe
+modified: 1624630710492
+created: 1624630697328
+url: https://google.com
+name: "test request to google "
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1624630697328
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
